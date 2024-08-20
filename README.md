@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junaid Zaidi</h1>
-<h3 align="center">Software Engineer | iOS | FullStack | Previously at Twitter (X) | MSSE @ UMD '23 </h3>
+<h3 align="center">Software Engineer | Previously at Twitter (X) | MSSE @ UMD '23 </h3>
 
 - 🌱 I’m currently working as a Founding Software Engineer at a 500 Global Startup.
 
