@@ -5,8 +5,7 @@
 
 - 📄 Wanna know about my experiences?
   - [Portfolio](https://junaidzaidi.github.io/)
-  - [Resume - iOS](https://drive.google.com/file/d/1sytsbvKU8XjB5mbKso9fbnUytVHU4dLI/view?usp=sharing)
-  - [Resume - FullStack](https://drive.google.com/file/d/1G4cCIFpDhwyLh21weBits4cxGc-2pBCX/view?usp=sharing)
+  - [Resume](https://drive.google.com/file/d/1sytsbvKU8XjB5mbKso9fbnUytVHU4dLI/view?usp=sharing)
 
 - 📫 Have some exciting opportunity or wanna say Hi? Reach me out to **jayzaidi@terpmail.umd.edu**
 
