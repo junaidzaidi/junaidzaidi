@@ -5,7 +5,7 @@
 
 - 📄 Wanna know about my experiences?
   - [Portfolio](https://junaidzaidi.github.io/)
-  - [Resume](https://drive.google.com/file/d/1sytsbvKU8XjB5mbKso9fbnUytVHU4dLI/view?usp=sharing)
+  - [Resume](https://drive.google.com/file/d/1-tgUh49GjtOaTqE020NNhKGOdRvTtyID/view?usp=drive_link)
 
 - 📫 Have some exciting opportunity or wanna say Hi? Reach me out to **junaidzaidi2025@gmail.com**
 
