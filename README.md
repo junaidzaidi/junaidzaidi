@@ -7,7 +7,7 @@
   - [Portfolio](https://junaidzaidi.github.io/)
   - [Resume](https://drive.google.com/file/d/1sytsbvKU8XjB5mbKso9fbnUytVHU4dLI/view?usp=sharing)
 
-- 📫 Have some exciting opportunity or wanna say Hi? Reach me out to **jayzaidi@terpmail.umd.edu**
+- 📫 Have some exciting opportunity or wanna say Hi? Reach me out to **junaidzaidi2025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
