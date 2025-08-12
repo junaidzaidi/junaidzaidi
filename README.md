@@ -6,7 +6,7 @@
 - 📄 Wanna know about my experiences?
   - [Portfolio](https://junaidzaidi.github.io/)
   - [Resume](https://drive.google.com/file/d/1-tgUh49GjtOaTqE020NNhKGOdRvTtyID/view?usp=drive_link)
-  - Also contributes via (https://github.com/junaid-zaidi-intercom)
+  - Also contributes via [@junaid-zaidi-intercom](https://github.com/junaid-zaidi-intercom)
 
 - 📫 Have some exciting opportunity or wanna say Hi? Reach me out to **junaidzaidi2025@gmail.com**
 
