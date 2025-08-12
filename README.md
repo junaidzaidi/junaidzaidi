@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Junaid Zaidi</h1>
 <h3 align="center">Software Engineer | Previously at Twitter (X) | MS(Software Engineering)  @ UMD '23 </h3>
 
-- 🌱 I’m currently working as a Founding Software Engineer at a 500 Global Startup (Apla).
+- 🌱 I’m currently working as a Software Engineer at [Intercom](https://www.intercom.com/).
 
 - 📄 Wanna know about my experiences?
   - [Portfolio](https://junaidzaidi.github.io/)
   - [Resume](https://drive.google.com/file/d/1-tgUh49GjtOaTqE020NNhKGOdRvTtyID/view?usp=drive_link)
+  - [Github Contributions Account](https://github.com/junaid-zaidi-intercom)
 
 - 📫 Have some exciting opportunity or wanna say Hi? Reach me out to **junaidzaidi2025@gmail.com**
 
